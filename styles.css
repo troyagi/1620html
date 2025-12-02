@@ -19,3 +19,11 @@ h1 {
   font-weight: 700;
   font-style: normal;
 }
+
+.body {
+  background-image: url(https://static.wikitide.net/battlecatswiki/d/d4/Map049_00.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
