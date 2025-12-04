@@ -1,3 +1,5 @@
 RESOURCES USED:
 
 For background image - https://www.w3schools.com/html/html_images_background.asp
+
+Chris's HTML and JS bootcamp
