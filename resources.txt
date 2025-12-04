@@ -1,5 +1,13 @@
 RESOURCES USED:
 
+ChatGPT - "help fix the redirection to a nested HTML file"  
+
 For background image - https://www.w3schools.com/html/html_images_background.asp
 
+Kevin's old HTML project (for reference)
+
 Chris's HTML and JS bootcamp
+
+For the cards:
+https://www.w3schools.com/w3css/w3css_cards.asp 
+https://www.w3schools.com/howto/howto_css_cards.asp
