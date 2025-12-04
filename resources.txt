@@ -8,6 +8,10 @@ Kevin's old HTML project (for reference)
 
 Chris's HTML and JS bootcamp
 
+Chris Harris
+
 For the cards:
 https://www.w3schools.com/w3css/w3css_cards.asp 
 https://www.w3schools.com/howto/howto_css_cards.asp
+
+Pseudo elements - https://www.w3schools.com/css/css_pseudo_elements.asp
